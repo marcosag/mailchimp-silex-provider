@@ -8,7 +8,7 @@ Add it using [Composer](http://getcomposer.org/) :
 ```json
 {
     "require": {
-        "magdev/mailchimp-silex-provider": "dev-master"
+        "marcosag/mailchimp-silex-provider": "dev-master"
     }
 }
 ```
@@ -19,7 +19,7 @@ and until this package is registered at [Packagist](https://packagist.org/) add 
 {
     "repositories" : [{
             "type" : "vcs",
-            "url" : "git@github.com:magdev/mailchimp-silex-provider.git"
+            "url" : "git@github.com:marcosag/mailchimp-silex-provider.git"
         }
     ]
 }
